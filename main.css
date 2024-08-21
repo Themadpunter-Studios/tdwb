@@ -1,6 +1,6 @@
 body {
     background-color: #23272A;
-    background-image: url("thumbnail_portrait.png");
+    background-image: linear_gradient(#3333ff, #1111ff);
     color: #eeeeee;
 }
 .video-container {
