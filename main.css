@@ -1,5 +1,6 @@
 body {
     background-color: #23272A;
+    background-image: url("thumbnail_portrait.png");
     color: #eeeeee;
 }
 .video-container {
