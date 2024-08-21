@@ -1,3 +1,7 @@
+body {
+    background-color: #23272A;
+    color: #eeeeee;
+}
 .topbar {
     float:right;
     display:inline-block;
