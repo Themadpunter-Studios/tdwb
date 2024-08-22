@@ -5,6 +5,9 @@ body {
 }
 .main {
     background-color: #23272A;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
 }
 .video-container {
     position: relative;
