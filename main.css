@@ -3,6 +3,9 @@ body {
     background-image: linear-gradient(to right, #3333ff, #1111ff);
     color: #eeeeee;
 }
+.main {
+    background-color: #23272A;
+}
 .video-container {
     position: relative;
     width: 100%;
