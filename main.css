@@ -2,6 +2,7 @@ body {
     background-color: #23272A;
     background-image: linear-gradient(to bottom, #3333ff, #7777ff);
     color: #eeeeee;
+    background-attachment: fixed;
 }
 .main {
     background-color: #23272A;
