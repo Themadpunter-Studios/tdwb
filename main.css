@@ -1,11 +1,10 @@
 body {
     background-color: #23272A;
-    background-image: linear-gradient(to bottom, #059bff,#00e1ff);
+    background-image: url("levelmain.png");
     color: #eeeeee;
-    background-attachment: fixed;
 }
 .main {
-    background-color: #23272A;
+    background-color: #23272A66;
     padding-left: 5%;
     padding-right: 5%;
     padding-top: 2%;
@@ -41,7 +40,7 @@ header {
     position: sticky;
     top: 0;
     z-index: 1000; /* Ensure it stays on top of other content */
-    background-color: #23272A; /* Dark background matching the Discord theme */
+    background-color: #23272A66; /* Dark background matching the Discord theme */
     padding: 20px;
     text-align: center;
     box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.5); /* Subtle shadow for separation */
@@ -54,7 +53,7 @@ body {
 }
 header {
     border-bottom: 1px solid #999;
-    margin-bottom: 2rem;
+    margin-bottom: 0%;
 }
 .btn {
     margin-right: 2px;
